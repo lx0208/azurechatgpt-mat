@@ -1,5 +1,7 @@
 # Unleash the Power of Azure Open AI
 
+> author: https://github.com/matijagrcic/azurechatgpt
+
 ![](/images/intro.png)
 
 # 📘 Prerequisites
