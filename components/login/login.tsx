@@ -29,7 +29,7 @@ export const LogIn = () => {
       <CardContent className="grid gap-4">
         <Button onClick={() => signIn("github")}>GitHub</Button>
         <Button onClick={() => signIn("azure-ad")}> Microsoft 365</Button>
-        <Button onClick={() => signIn("google")}> Google</Button>
+        <Button onClick={() => signIn("google")}>Immortal</Button>
       </CardContent>
     </Card>
   );
